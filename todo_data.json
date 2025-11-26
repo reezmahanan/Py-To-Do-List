@@ -1,0 +1,46 @@
+{
+  "Personal": [
+    {
+      "title": "Buy groceries",
+      "description": "Milk, Eggs, Bread",
+      "priority": "High",
+      "due_date": null,
+      "completed": true,
+      "created_at": "2025-11-27 00:03:13"
+    },
+    {
+      "title": "Finish Python project",
+      "description": "Complete the OOP todo list",
+      "priority": "High",
+      "due_date": null,
+      "completed": false,
+      "created_at": "2025-11-27 00:03:13"
+    },
+    {
+      "title": "Read book",
+      "description": "Read 50 pages",
+      "priority": "Low",
+      "due_date": null,
+      "completed": false,
+      "created_at": "2025-11-27 00:03:13"
+    }
+  ],
+  "Work": [
+    {
+      "title": "Prepare presentation",
+      "description": "Quarterly review",
+      "priority": "High",
+      "due_date": null,
+      "completed": false,
+      "created_at": "2025-11-27 00:03:13"
+    },
+    {
+      "title": "Team meeting",
+      "description": "Weekly sync",
+      "priority": "Medium",
+      "due_date": null,
+      "completed": false,
+      "created_at": "2025-11-27 00:03:13"
+    }
+  ]
+}
